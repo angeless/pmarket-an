@@ -1,12 +1,12 @@
 {
   "trade_id": "TRADE_20260219_002",
-  "timestamp": "2026-02-19T14:41:30.058508",
-  "market": "Will the Oklahoma City Thunder win the 2026 NBA Finals?",
+  "timestamp": "2026-02-19T15:09:32.625843",
+  "market": "Will China invades Taiwan before GTA VI?",
   "action": "BUY",
-  "side": "YES",
-  "price": 0.35,
-  "amount": 20.0,
-  "shares": 57.142857142857146,
-  "reason": "YES被低估至0.35（实际胜率45%+）。OKC本赛季SGA MVP级别表现。28%反弹空间。",
-  "screenshot": "okc_thunder_20260219_140000.png"
+  "side": "NO",
+  "price": 0.485,
+  "amount": 17.5,
+  "shares": 36.08247422680412,
+  "reason": "地缘政治驱动，分散风险。价格0.48合理。",
+  "screenshot": "trade5_地缘政治_20260219.png"
 }
