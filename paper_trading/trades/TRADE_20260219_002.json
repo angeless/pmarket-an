@@ -1,0 +1,12 @@
+{
+  "trade_id": "TRADE_20260219_002",
+  "timestamp": "2026-02-19T04:54:28.326801",
+  "market": "Bitcoin Up or Down - Feb 19, 8:10PM-8:15PM",
+  "action": "SELL",
+  "side": "YES",
+  "price": 0.58,
+  "amount": 33.46153846153846,
+  "shares": 57.69230769230769,
+  "reason": "达到目标价位，收益 11.5%，止盈离场",
+  "screenshot": "sell_btc_20260219_203000.png"
+}
