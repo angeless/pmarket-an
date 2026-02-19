@@ -8,11 +8,12 @@
   "total_trades": 3,
   "open_positions": 3,
   "closed_positions": 0,
-  "last_updated": "2026-02-19T14:57:00Z",
+  "last_updated": "2026-02-19T15:01:00Z",
   "high_freq_mode": true,
   "update_interval_minutes": 5,
   "price_fetch_status": "SUCCESS",
-  "check_count": 3,
+  "check_count": 4,
   "current_total_value": 100.25,
-  "unrealized_pnl": 0.25
+  "unrealized_pnl": 0.25,
+  "opportunities_found": 5
 }
