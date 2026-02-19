@@ -19,7 +19,10 @@
 ├── 🐍 polymarket_scraper.py           # 数据抓取脚本
 ├── 🐍 polymarket_report.py            # 报告生成器
 ├── 🐍 polymarket_notion_db.py         # Notion 同步
-└── 🐍 test_polymarket_login.py        # 登录测试
+├── 🐍 test_polymarket_login.py        # 登录测试
+├── 🐍 daily_sentiment_monitor.py      # 每日情绪监控 (自动)
+├── 🐍 event_alert_system.py           # 事件预警系统 (自动)
+└── 🔧 run_monitor.sh                  # 一键启动监控
 ```
 
 ---
@@ -69,11 +72,30 @@ python3 polymarket_notion_db.py
 
 ---
 
-## 🤖 自动化
+## 🤖 自动化 (Cron 任务)
 
-- **每日报告:** 08:00 UTC 自动生成
-- **数据抓取:** 每小时检查市场变化
-- **情绪监控:** 每日关键词追踪
+| 任务 | 频率 | 功能 |
+|------|------|------|
+| 每日情绪监控 | 每天 09:00 UTC | 生成监控报告并推送到 GitHub |
+| 事件预警检查 | 每 5 分钟 | 检查重点事件，提前5分钟预警 |
+| 赚钱报告生成 | 每天 08:00 UTC | 生成策略报告 |
+
+### 手动运行
+```bash
+# 一键启动所有监控
+./run_monitor.sh
+
+# 单独运行每日监控
+python3 daily_sentiment_monitor.py
+
+# 单独运行事件预警
+python3 event_alert_system.py
+```
+
+### 重点事件自动提醒
+- **3月7日** 非农就业数据 (提前5分钟预警)
+- **3月12日** CPI数据 (提前5分钟预警)
+- **3月19日** FOMC利率决议 (提前5分钟预警)
 
 ---
 
