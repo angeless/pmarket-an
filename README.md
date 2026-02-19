@@ -15,11 +15,12 @@
 ├── 📄 KALSHI_RESEARCH.md              # Kalshi 平台研究
 ├── 📄 Q1_2026_EVENTS.md               # Q1 高关注事件
 ├── 📄 SENTIMENT_MONITORING.md         # 情绪监控清单
-├── 📄 polymarket_research_checklist.md # 研究任务清单
+├── 📄 PAPER_TRADING_GUIDE.md          # 模拟投资指南 ⭐NEW
+├── 🐍 paper_trading_system.py         # 模拟投资核心系统 ⭐NEW
+├── 🐍 quick_trade.py                  # 快速交易记录工具 ⭐NEW
+├── 📁 paper_trading/                  # 模拟交易数据目录 ⭐NEW
 ├── 🐍 polymarket_scraper.py           # 数据抓取脚本
 ├── 🐍 polymarket_report.py            # 报告生成器
-├── 🐍 polymarket_notion_db.py         # Notion 同步
-├── 🐍 test_polymarket_login.py        # 登录测试
 ├── 🐍 daily_sentiment_monitor.py      # 每日情绪监控 (自动)
 ├── 🐍 event_alert_system.py           # 事件预警系统 (自动)
 └── 🔧 run_monitor.sh                  # 一键启动监控
@@ -101,3 +102,46 @@ python3 event_alert_system.py
 
 **研究 Agent:** 码匠 (Deki Programmer)  
 **更新日期:** 2026-02-19
+
+---
+
+## 🎮 模拟投资系统 (Paper Trading)
+
+**本金:** $100 USD  
+**周期:** 7天高频交易  
+**目标:** 测试策略，记录收益，截图留证
+
+### 当前状态 (实时更新)
+
+| 指标 | 数值 |
+|------|------|
+| 初始本金 | $100.00 |
+| 当前总值 | $103.46 |
+| 总盈亏 | +$3.46 (+3.46%) |
+| 交易次数 | 1 笔 |
+| 胜率 | 100% |
+
+### 快速开始
+
+```bash
+# 启动模拟投资系统
+python3 start_paper_trading.py
+
+# 记录买入
+python3 quick_trade.py buy "BTC Up" YES 0.52 30 "看涨理由" "screenshot.png"
+
+# 记录卖出
+python3 quick_trade.py sell "BTC Up" YES 0.58 "止盈理由" "screenshot.png"
+
+# 查看状态
+python3 quick_trade.py status
+
+# 生成日报
+python3 quick_trade.py report
+```
+
+### 交易记录
+
+查看完整交易记录: `paper_trading/trades/`  
+查看每日报告: `paper_trading/daily_reports/`  
+查看交易日志: `paper_trading/TRADING_LOG.md`
