@@ -1,0 +1,45 @@
+{
+  "date": "2026-02-19",
+  "events": [
+    {
+      "name": "美联储3月利率决议",
+      "date": "2026-03-19",
+      "priority": "high",
+      "sentiment": null
+    },
+    {
+      "name": "3月CPI数据",
+      "date": "2026-03-12",
+      "priority": "high",
+      "sentiment": null
+    },
+    {
+      "name": "3月非农就业",
+      "date": "2026-03-07",
+      "priority": "high",
+      "sentiment": null
+    }
+  ],
+  "sentiment": {
+    "xiaohongshu": {
+      "keywords": [
+        "美联储",
+        "降息",
+        "CPI"
+      ],
+      "sentiment_score": 0,
+      "notes": "需人工输入"
+    },
+    "twitter": {
+      "keywords": [
+        "#Fed",
+        "#FOMC",
+        "#CPI"
+      ],
+      "sentiment_score": 0,
+      "notes": "需人工输入"
+    }
+  },
+  "opportunities": [],
+  "notes": ""
+}
