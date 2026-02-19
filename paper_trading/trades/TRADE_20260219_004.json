@@ -1,0 +1,14 @@
+{
+  "trade_id": "TRADE_20260219_004",
+  "timestamp": "2026-02-19T14:46:00Z",
+  "market": "NBA Championship 2025 - OKC Thunder",
+  "market_slug": "okc-thunder-championship",
+  "action": "BUY",
+  "side": "YES",
+  "price": 0.35,
+  "amount": 20.0,
+  "shares": 57.1429,
+  "reason": "OKC Thunder西部第一，年轻球员表现出色，冠军潜力大",
+  "screenshot": "",
+  "upside_potential": "186%"
+}

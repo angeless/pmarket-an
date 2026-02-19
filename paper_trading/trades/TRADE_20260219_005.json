@@ -1,0 +1,14 @@
+{
+  "trade_id": "TRADE_20260219_005",
+  "timestamp": "2026-02-19T14:46:00Z",
+  "market": "Bitcoin $1M in 2025",
+  "market_slug": "btc-1m-2025",
+  "action": "BUY",
+  "side": "YES",
+  "price": 0.48,
+  "amount": 20.0,
+  "shares": 41.6667,
+  "reason": "加密货币牛市预期，BTC有潜力在2025年达到新高",
+  "screenshot": "",
+  "upside_potential": "108%"
+}

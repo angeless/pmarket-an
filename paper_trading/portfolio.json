@@ -1,11 +1,14 @@
 {
-  "start_date": "2026-02-19T04:54:28.324835",
+  "start_date": "2026-02-19T14:46:00Z",
   "initial_capital": 100.0,
-  "current_cash": 103.46153846153845,
-  "total_invested": 30.0,
-  "total_pnl": 3.46153846153846,
-  "total_pnl_pct": 3.461538461538453,
-  "total_trades": 2,
-  "open_positions": 0,
-  "closed_positions": 1
+  "current_cash": 35.0,
+  "total_invested": 65.0,
+  "total_pnl": 0.0,
+  "total_pnl_pct": 0.0,
+  "total_trades": 3,
+  "open_positions": 3,
+  "closed_positions": 0,
+  "last_updated": "2026-02-19T14:48:00Z",
+  "high_freq_mode": true,
+  "update_interval_minutes": 5
 }

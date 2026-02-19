@@ -1,0 +1,14 @@
+{
+  "trade_id": "TRADE_20260219_003",
+  "timestamp": "2026-02-19T14:46:00Z",
+  "market": "Jesus vs GTA - Will Jesus Return Before GTA 6 Releases?",
+  "market_slug": "jesus-vs-gta",
+  "action": "BUY",
+  "side": "NO",
+  "price": 0.52,
+  "amount": 25.0,
+  "shares": 48.0769,
+  "reason": "GTA 6预计2025年发售，耶稣回归概率极低，NO side有高胜率",
+  "screenshot": "",
+  "upside_potential": "92%"
+}
