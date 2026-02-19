@@ -1,12 +1,12 @@
 {
   "trade_id": "TRADE_20260219_002",
-  "timestamp": "2026-02-19T04:54:28.326801",
-  "market": "Bitcoin Up or Down - Feb 19, 8:10PM-8:15PM",
-  "action": "SELL",
+  "timestamp": "2026-02-19T14:41:30.058508",
+  "market": "Will the Oklahoma City Thunder win the 2026 NBA Finals?",
+  "action": "BUY",
   "side": "YES",
-  "price": 0.58,
-  "amount": 33.46153846153846,
-  "shares": 57.69230769230769,
-  "reason": "达到目标价位，收益 11.5%，止盈离场",
-  "screenshot": "sell_btc_20260219_203000.png"
+  "price": 0.35,
+  "amount": 20.0,
+  "shares": 57.142857142857146,
+  "reason": "YES被低估至0.35（实际胜率45%+）。OKC本赛季SGA MVP级别表现。28%反弹空间。",
+  "screenshot": "okc_thunder_20260219_140000.png"
 }

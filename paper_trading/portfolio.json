@@ -1,11 +1,11 @@
 {
-  "start_date": "2026-02-19T14:34:04.746823",
+  "start_date": "2026-02-19T14:41:30.056927",
   "initial_capital": 100.0,
-  "current_cash": 75.0,
-  "total_invested": 25.0,
+  "current_cash": 35.0,
+  "total_invested": 65.0,
   "total_pnl": 0.0,
   "total_pnl_pct": 0.0,
-  "total_trades": 1,
-  "open_positions": 1,
+  "total_trades": 3,
+  "open_positions": 3,
   "closed_positions": 0
 }

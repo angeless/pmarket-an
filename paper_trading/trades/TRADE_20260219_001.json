@@ -1,12 +1,12 @@
 {
   "trade_id": "TRADE_20260219_001",
-  "timestamp": "2026-02-19T14:34:04.747662",
+  "timestamp": "2026-02-19T14:41:30.057343",
   "market": "Will Jesus Christ return before GTA VI?",
   "action": "BUY",
   "side": "NO",
   "price": 0.52,
   "amount": 25.0,
   "shares": 48.07692307692307,
-  "reason": "GTA VI已确认2026发布，耶稣再临无时间表。价格0.52有92%上涨空间。高流动性($9.4M交易量)。",
+  "reason": "GTA VI已确认2026发布，耶稣再临无时间表。价格0.52有92%上涨空间至1.00。高流动性($9.4M)。",
   "screenshot": "jesus_vs_gta_20260219_134500.png"
 }
