@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-21T20:04:01.229916",
+  "timestamp": "2026-02-24T03:22:29.692018",
   "total_markets": 100,
   "high_volume_markets": 91,
   "opportunities": [
@@ -7,87 +7,183 @@
       "market": "Will the Indiana Pacers win the 2026 NBA Finals?",
       "type": "TREND",
       "direction": "NO",
-      "price": 0.0015
-    },
-    {
-      "market": "Will Trump deport 250,000-500,000 people?",
-      "type": "TREND",
-      "direction": "YES",
-      "price": 0.9515
-    },
-    {
-      "market": "Will the Minnesota Wild win the 2026 NHL Stanley Cup?",
-      "type": "TREND",
-      "direction": "NO",
-      "price": 0.0495
-    },
-    {
-      "market": "Will the Los Angeles Clippers win the 2026 NBA Finals?",
-      "type": "TREND",
-      "direction": "NO",
-      "price": 0.0165
-    },
-    {
-      "market": "Will the Los Angeles Kings win the 2026 NHL Stanley Cup?",
-      "type": "TREND",
-      "direction": "NO",
-      "price": 0.019
-    },
-    {
-      "market": "Will the Milwaukee Bucks win the 2026 NBA Finals?",
-      "type": "TREND",
-      "direction": "NO",
-      "price": 0.0025
-    },
-    {
-      "market": "Will Ahmed Aboutaleb become the next Prime Minister of the Netherlands?",
-      "type": "TREND",
-      "direction": "NO",
       "price": 0.0005
     },
     {
-      "market": "Will GTA 6 cost $100+?",
+      "market": "Will the Memphis Grizzlies win the 2026 NBA Finals?",
+      "type": "TREND",
+      "direction": "NO",
+      "price": 0.0015
+    },
+    {
+      "market": "Will the Chicago Bulls win the 2026 NBA Finals?",
+      "type": "TREND",
+      "direction": "NO",
+      "price": 0.0015
+    },
+    {
+      "market": "Will the Charlotte Hornets win the 2026 NBA Finals?",
       "type": "TREND",
       "direction": "NO",
       "price": 0.0055
     },
     {
-      "market": "GTA VI released before June 2026?",
-      "type": "TREND",
-      "direction": "NO",
-      "price": 0.0305
-    },
-    {
-      "market": "Will the Miami Heat win the 2026 NBA Finals?",
-      "type": "TREND",
-      "direction": "NO",
-      "price": 0.0125
-    },
-    {
-      "market": "Will the Dallas Mavericks win the 2026 NBA Finals?",
+      "market": "Will the Brooklyn Nets win the 2026 NBA Finals?",
       "type": "TREND",
       "direction": "NO",
       "price": 0.0015
     },
     {
-      "market": "Will Rob Jetten become the next Prime Minister of the Netherlands?",
-      "type": "TREND",
-      "direction": "YES",
-      "price": 0.997
-    },
-    {
-      "market": "Will the San Antonio Spurs win the 2026 NBA Finals?",
+      "market": "Will the Utah Jazz win the 2026 NBA Finals?",
       "type": "TREND",
       "direction": "NO",
-      "price": 0.0935
+      "price": 0.0015
+    },
+    {
+      "market": "Will the New Orleans Pelicans win the 2026 NBA Finals?",
+      "type": "TREND",
+      "direction": "NO",
+      "price": 0.0015
+    },
+    {
+      "market": "Will the Los Angeles Clippers win the 2026 NBA Finals?",
+      "type": "TREND",
+      "direction": "NO",
+      "price": 0.0135
+    },
+    {
+      "market": "Will Trump deport 250,000-500,000 people?",
+      "type": "TREND",
+      "direction": "YES",
+      "price": 0.935
+    },
+    {
+      "market": "Will the Minnesota Wild win the 2026 NHL Stanley Cup?",
+      "type": "TREND",
+      "direction": "NO",
+      "price": 0.0465
+    },
+    {
+      "market": "Will the Portland Trail Blazers win the 2026 NBA Finals?",
+      "type": "TREND",
+      "direction": "NO",
+      "price": 0.0035
+    },
+    {
+      "market": "Will the Toronto Raptors win the 2026 NBA Finals?",
+      "type": "TREND",
+      "direction": "NO",
+      "price": 0.0075
+    },
+    {
+      "market": "Will the Atlanta Hawks win the 2026 NBA Finals?",
+      "type": "TREND",
+      "direction": "NO",
+      "price": 0.0035
+    },
+    {
+      "market": "Will the Phoenix Suns win the 2026 NBA Finals?",
+      "type": "TREND",
+      "direction": "NO",
+      "price": 0.009
     }
   ],
   "top_markets": [
     {
       "question": "Will the Indiana Pacers win the 2026 NBA Finals?",
       "slug": "will-the-indiana-pacers-win-the-2026-nba-finals",
-      "volume": 32755849.84517,
-      "liquidity": 561825.47167,
+      "volume": 32960285.15317,
+      "liquidity": 591585.29742,
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "prices": [
+        0.0005,
+        0.9995
+      ],
+      "category": "Other"
+    },
+    {
+      "question": "Will the Memphis Grizzlies win the 2026 NBA Finals?",
+      "slug": "will-the-memphis-grizzlies-win-the-2026-nba-finals",
+      "volume": 31548322.303182,
+      "liquidity": 1014441.25517,
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "prices": [
+        0.0015,
+        0.9985
+      ],
+      "category": "Other"
+    },
+    {
+      "question": "Will the Chicago Bulls win the 2026 NBA Finals?",
+      "slug": "will-the-chicago-bulls-win-the-2026-nba-finals",
+      "volume": 19876283.598793,
+      "liquidity": 1150294.94982,
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "prices": [
+        0.0015,
+        0.9985
+      ],
+      "category": "Other"
+    },
+    {
+      "question": "Will the Charlotte Hornets win the 2026 NBA Finals?",
+      "slug": "will-the-charlotte-hornets-win-the-2026-nba-finals",
+      "volume": 18375034.236784,
+      "liquidity": 373584.46714,
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "prices": [
+        0.0055,
+        0.9945
+      ],
+      "category": "Other"
+    },
+    {
+      "question": "Will the Brooklyn Nets win the 2026 NBA Finals?",
+      "slug": "will-the-brooklyn-nets-win-the-2026-nba-finals",
+      "volume": 16612354.88265,
+      "liquidity": 1228019.56604,
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "prices": [
+        0.0015,
+        0.9985
+      ],
+      "category": "Other"
+    },
+    {
+      "question": "Will the Utah Jazz win the 2026 NBA Finals?",
+      "slug": "will-the-utah-jazz-win-the-2026-nba-finals",
+      "volume": 16536921.140791,
+      "liquidity": 1082740.4175,
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "prices": [
+        0.0015,
+        0.9985
+      ],
+      "category": "Other"
+    },
+    {
+      "question": "Will the New Orleans Pelicans win the 2026 NBA Finals?",
+      "slug": "will-the-new-orleans-pelicans-win-the-2026-nba-finals",
+      "volume": 13468108.406637,
+      "liquidity": 1270429.69551,
       "outcomes": [
         "Yes",
         "No"
@@ -101,8 +197,8 @@
     {
       "question": "Will Jesus Christ return before GTA VI?",
       "slug": "will-jesus-christ-return-before-gta-vi-665",
-      "volume": 9478243.607066,
-      "liquidity": 848231.5599,
+      "volume": 9506121.787066,
+      "liquidity": 1424648.559,
       "outcomes": [
         "Yes",
         "No"
@@ -114,122 +210,32 @@
       "category": "Other"
     },
     {
-      "question": "Will Trump deport 250,000-500,000 people?",
-      "slug": "will-trump-deport-250000-500000-people",
-      "volume": 7510230.597665,
-      "liquidity": 7180.52184,
-      "outcomes": [
-        "Yes",
-        "No"
-      ],
-      "prices": [
-        0.9515,
-        0.0485
-      ],
-      "category": "Other"
-    },
-    {
-      "question": "Will the Minnesota Wild win the 2026 NHL Stanley Cup?",
-      "slug": "will-the-minnesota-wild-win-the-2026-nhl-stanley-cup",
-      "volume": 7373279.852675,
-      "liquidity": 78716.6444,
-      "outcomes": [
-        "Yes",
-        "No"
-      ],
-      "prices": [
-        0.0495,
-        0.9505
-      ],
-      "category": "Other"
-    },
-    {
       "question": "Will the Los Angeles Clippers win the 2026 NBA Finals?",
       "slug": "will-the-los-angeles-clippers-win-the-2026-nba-finals",
-      "volume": 7311065.45255,
-      "liquidity": 111497.31139,
+      "volume": 7920349.852721,
+      "liquidity": 111385.75332,
       "outcomes": [
         "Yes",
         "No"
       ],
       "prices": [
-        0.0165,
-        0.9835
+        0.0135,
+        0.9865
       ],
       "category": "Other"
     },
     {
-      "question": "Will the Los Angeles Kings win the 2026 NHL Stanley Cup?",
-      "slug": "will-the-los-angeles-kings-win-the-2026-nhl-stanley-cup",
-      "volume": 6105207.069505,
-      "liquidity": 92224.14374,
+      "question": "Will Trump deport 250,000-500,000 people?",
+      "slug": "will-trump-deport-250000-500000-people",
+      "volume": 7516232.012159,
+      "liquidity": 7408.03555,
       "outcomes": [
         "Yes",
         "No"
       ],
       "prices": [
-        0.019,
-        0.981
-      ],
-      "category": "Other"
-    },
-    {
-      "question": "Will the Milwaukee Bucks win the 2026 NBA Finals?",
-      "slug": "will-the-milwaukee-bucks-win-the-2026-nba-finals",
-      "volume": 5801177.998368,
-      "liquidity": 507125.20992,
-      "outcomes": [
-        "Yes",
-        "No"
-      ],
-      "prices": [
-        0.0025,
-        0.9975
-      ],
-      "category": "Other"
-    },
-    {
-      "question": "Will Ahmed Aboutaleb become the next Prime Minister of the Netherlands?",
-      "slug": "will-ahmed-aboutaleb-become-the-next-prime-minister-of-the-netherlands",
-      "volume": 5712706.606241,
-      "liquidity": 81343.22428,
-      "outcomes": [
-        "Yes",
-        "No"
-      ],
-      "prices": [
-        0.0005,
-        0.9995
-      ],
-      "category": "Other"
-    },
-    {
-      "question": "Will GTA 6 cost $100+?",
-      "slug": "will-gta-6-cost-100",
-      "volume": 5390253.383649,
-      "liquidity": 131499.3099,
-      "outcomes": [
-        "Yes",
-        "No"
-      ],
-      "prices": [
-        0.0055,
-        0.9945
-      ],
-      "category": "Other"
-    },
-    {
-      "question": "GTA VI released before June 2026?",
-      "slug": "gta-vi-released-before-june-2026",
-      "volume": 5313686.278389,
-      "liquidity": 25932.41668,
-      "outcomes": [
-        "Yes",
-        "No"
-      ],
-      "prices": [
-        0.0305,
-        0.9695
+        0.935,
+        0.065
       ],
       "category": "Other"
     }
