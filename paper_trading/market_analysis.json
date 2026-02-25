@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-24T03:23:58.262235",
+  "timestamp": "2026-02-25T08:09:56.818342",
   "total_markets": 100,
   "high_volume_markets": 91,
   "opportunities": [
@@ -7,7 +7,7 @@
       "market": "Will the Indiana Pacers win the 2026 NBA Finals?",
       "type": "TREND",
       "direction": "NO",
-      "price": 0.0005
+      "price": 0.001
     },
     {
       "market": "Will the Memphis Grizzlies win the 2026 NBA Finals?",
@@ -25,7 +25,7 @@
       "market": "Will the Charlotte Hornets win the 2026 NBA Finals?",
       "type": "TREND",
       "direction": "NO",
-      "price": 0.0055
+      "price": 0.008
     },
     {
       "market": "Will the Brooklyn Nets win the 2026 NBA Finals?",
@@ -49,19 +49,13 @@
       "market": "Will the Los Angeles Clippers win the 2026 NBA Finals?",
       "type": "TREND",
       "direction": "NO",
-      "price": 0.0135
+      "price": 0.009
     },
     {
       "market": "Will Trump deport 250,000-500,000 people?",
       "type": "TREND",
       "direction": "YES",
-      "price": 0.935
-    },
-    {
-      "market": "Will the Minnesota Wild win the 2026 NHL Stanley Cup?",
-      "type": "TREND",
-      "direction": "NO",
-      "price": 0.0465
+      "price": 0.925
     },
     {
       "market": "Will the Portland Trail Blazers win the 2026 NBA Finals?",
@@ -70,10 +64,10 @@
       "price": 0.0035
     },
     {
-      "market": "Will the Toronto Raptors win the 2026 NBA Finals?",
+      "market": "Will the Minnesota Wild win the 2026 NHL Stanley Cup?",
       "type": "TREND",
       "direction": "NO",
-      "price": 0.0075
+      "price": 0.0465
     },
     {
       "market": "Will the Atlanta Hawks win the 2026 NBA Finals?",
@@ -82,33 +76,39 @@
       "price": 0.0035
     },
     {
-      "market": "Will the Phoenix Suns win the 2026 NBA Finals?",
+      "market": "Will the Toronto Raptors win the 2026 NBA Finals?",
       "type": "TREND",
       "direction": "NO",
-      "price": 0.009
+      "price": 0.008
+    },
+    {
+      "market": "GTA VI released before June 2026?",
+      "type": "TREND",
+      "direction": "NO",
+      "price": 0.0315
     }
   ],
   "top_markets": [
     {
       "question": "Will the Indiana Pacers win the 2026 NBA Finals?",
       "slug": "will-the-indiana-pacers-win-the-2026-nba-finals",
-      "volume": 32960285.15317,
-      "liquidity": 591585.29742,
+      "volume": 35348793.77317,
+      "liquidity": 129313.79358,
       "outcomes": [
         "Yes",
         "No"
       ],
       "prices": [
-        0.0005,
-        0.9995
+        0.001,
+        0.999
       ],
       "category": "Other"
     },
     {
       "question": "Will the Memphis Grizzlies win the 2026 NBA Finals?",
       "slug": "will-the-memphis-grizzlies-win-the-2026-nba-finals",
-      "volume": 31548322.303182,
-      "liquidity": 1014441.25517,
+      "volume": 31660229.060182,
+      "liquidity": 1148800.12063,
       "outcomes": [
         "Yes",
         "No"
@@ -122,8 +122,8 @@
     {
       "question": "Will the Chicago Bulls win the 2026 NBA Finals?",
       "slug": "will-the-chicago-bulls-win-the-2026-nba-finals",
-      "volume": 19876283.598793,
-      "liquidity": 1150294.94982,
+      "volume": 19974088.507793,
+      "liquidity": 1161954.86058,
       "outcomes": [
         "Yes",
         "No"
@@ -137,23 +137,23 @@
     {
       "question": "Will the Charlotte Hornets win the 2026 NBA Finals?",
       "slug": "will-the-charlotte-hornets-win-the-2026-nba-finals",
-      "volume": 18375034.236784,
-      "liquidity": 373584.46714,
+      "volume": 18446819.181574,
+      "liquidity": 350476.01045,
       "outcomes": [
         "Yes",
         "No"
       ],
       "prices": [
-        0.0055,
-        0.9945
+        0.008,
+        0.992
       ],
       "category": "Other"
     },
     {
       "question": "Will the Brooklyn Nets win the 2026 NBA Finals?",
       "slug": "will-the-brooklyn-nets-win-the-2026-nba-finals",
-      "volume": 16612354.88265,
-      "liquidity": 1228019.56604,
+      "volume": 16715002.26765,
+      "liquidity": 1465767.53722,
       "outcomes": [
         "Yes",
         "No"
@@ -167,8 +167,8 @@
     {
       "question": "Will the Utah Jazz win the 2026 NBA Finals?",
       "slug": "will-the-utah-jazz-win-the-2026-nba-finals",
-      "volume": 16536921.140791,
-      "liquidity": 1082740.4175,
+      "volume": 16599609.211791,
+      "liquidity": 1258008.55682,
       "outcomes": [
         "Yes",
         "No"
@@ -182,8 +182,8 @@
     {
       "question": "Will the New Orleans Pelicans win the 2026 NBA Finals?",
       "slug": "will-the-new-orleans-pelicans-win-the-2026-nba-finals",
-      "volume": 13468108.406637,
-      "liquidity": 1270429.69551,
+      "volume": 13616184.586637,
+      "liquidity": 1411793.09497,
       "outcomes": [
         "Yes",
         "No"
@@ -197,8 +197,8 @@
     {
       "question": "Will Jesus Christ return before GTA VI?",
       "slug": "will-jesus-christ-return-before-gta-vi-665",
-      "volume": 9506121.787066,
-      "liquidity": 1424648.559,
+      "volume": 9517639.810607,
+      "liquidity": 1461306.3827,
       "outcomes": [
         "Yes",
         "No"
@@ -212,30 +212,30 @@
     {
       "question": "Will the Los Angeles Clippers win the 2026 NBA Finals?",
       "slug": "will-the-los-angeles-clippers-win-the-2026-nba-finals",
-      "volume": 7920349.852721,
-      "liquidity": 111385.75332,
+      "volume": 8392211.417284,
+      "liquidity": 128053.51411,
       "outcomes": [
         "Yes",
         "No"
       ],
       "prices": [
-        0.0135,
-        0.9865
+        0.009,
+        0.991
       ],
       "category": "Other"
     },
     {
       "question": "Will Trump deport 250,000-500,000 people?",
       "slug": "will-trump-deport-250000-500000-people",
-      "volume": 7516232.012159,
-      "liquidity": 7408.03555,
+      "volume": 7518000.825661,
+      "liquidity": 8665.1707,
       "outcomes": [
         "Yes",
         "No"
       ],
       "prices": [
-        0.935,
-        0.065
+        0.925,
+        0.075
       ],
       "category": "Other"
     }
